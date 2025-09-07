@@ -1,0 +1,7 @@
+customtkinter
+pyttsx3
+pyautogui
+SpeechRecognition
+requests
+opencv-python
+mediapipe
